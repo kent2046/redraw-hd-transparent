@@ -4,7 +4,7 @@
 
 它不是简单放大或锐化原图，而是指导 Codex 使用图像生成能力重新构建主体，再通过色键去底和确定性脚本完成透明画布、尺寸与 PPI 校验。
 
-![高清透明重绘示意图](docs/oranl.png)
+![高清透明重绘示意图](https://github.com/kent2046/redraw-hd-transparent/blob/main/docs/organl.png)
 
 > 上图是使用本 Skill 工作流生成的透明背景素材示例。GitHub 页面通常以深色或棋盘格显示透明区域。
 
