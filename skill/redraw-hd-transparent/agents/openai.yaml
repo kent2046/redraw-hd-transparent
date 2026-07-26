@@ -1,0 +1,4 @@
+interface:
+  display_name: "高清透明重绘"
+  short_description: "参考图高清重绘、透明去底、遮挡补全与指定画布PPI输出"
+  default_prompt: "Use $redraw-hd-transparent to redraw this reference image as a high-resolution transparent PNG for a specified canvas size."
